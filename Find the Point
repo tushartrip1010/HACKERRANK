@@ -1,0 +1,4 @@
+    # Write your code here
+    dx=qx-px
+    dy=qy-py
+    return (qx+dx,qy+dy)  
