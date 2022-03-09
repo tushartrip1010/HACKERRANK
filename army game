@@ -1,0 +1,2 @@
+def gameWithCells(n, m):
+    return ceil(n / 2) * ceil(m / 2)
